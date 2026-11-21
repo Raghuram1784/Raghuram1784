@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1424,45:203A64,100:C7A261&height=170&section=header&text=Raghuram&fontSize=64&fontColor=FAF5EC&fontAlignY=34&desc=Software%20Developer%20%C2%B7%20AI%2FML%20Engineer%20%C2%B7%20Full-Stack%20and%20Mobile&descAlignY=56&descSize=16&animation=fadeIn" width="100%" alt="Raghuram: Software Developer, AI/ML Engineer, Full-Stack and Mobile" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1424,45:203A64,100:C7A261&height=200&section=header&text=Raghuram&fontSize=72&fontColor=FAF5EC&fontAlignY=34&desc=Software%20Developer%20%C2%B7%20AI%2FML%20Engineer%20%C2%B7%20Full-Stack%20and%20Mobile&descAlignY=56&descSize=16&animation=fadeIn" width="100%" alt="Raghuram: Software Developer, AI/ML Engineer, Full-Stack and Mobile" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2600&pause=900&color=C7A261&center=true&vCenter=true&width=560&height=36&lines=I+build+intelligent+products.;Agentic+commerce+%C2%B7+Computer+vision+%C2%B7+Clinical+AI;Intern+%40+Juvion+Labs+%C2%B7+DSA+Mentor+%40+Smart+Interviews" alt="I build intelligent products" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1000&color=C7A261&center=true&vCenter=true&width=840&height=48&lines=I+build+intelligent+products.;Agentic+commerce+%C2%B7+Computer+vision+%C2%B7+Clinical+AI;Intern+%40+Juvion+Labs+%C2%B7+DSA+Mentor+%40+Smart+Interviews" alt="I build intelligent products" />
 </p>
 
 <p align="center">
