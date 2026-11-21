@@ -41,7 +41,7 @@
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raghuram1784&layout=compact&langs_count=6&hide_border=true&hide_title=true&bg_color=111F36&text_color=F1E5D2" alt="Top languages" />
 </p>
 
-<details>
+<!-- <details>
 <summary><b>My journey</b></summary>
 <br />
 
@@ -57,4 +57,4 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Raghuram1784/Raghuram1784/output/snake-dark.svg" />
   <img src="https://raw.githubusercontent.com/Raghuram1784/Raghuram1784/output/snake-light.svg" width="100%" alt="Snake eating my contribution graph" />
-</picture>
+</picture> -->
