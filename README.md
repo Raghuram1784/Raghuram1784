@@ -8,8 +8,8 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ymvraghuram/"><img src="https://img.shields.io/badge/LinkedIn-ymvraghuram-203A64?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <img src="https://img.shields.io/badge/KL_University-B.Tech_CSE_(Honors)-111F36?style=flat-square" alt="KL University" />
-  <img src="https://img.shields.io/badge/CGPA-9.93-C7A261?style=flat-square" alt="CGPA 9.93" />
+  <!-- <img src="https://img.shields.io/badge/KL_University-B.Tech_CSE_(Honors)-111F36?style=flat-square" alt="KL University" />
+  <img src="https://img.shields.io/badge/CGPA-9.93-C7A261?style=flat-square" alt="CGPA 9.93" /> -->
   <img src="https://img.shields.io/badge/Hyderabad-India-365783?style=flat-square&logo=googlemaps&logoColor=white" alt="Hyderabad" />
 </p>
 
